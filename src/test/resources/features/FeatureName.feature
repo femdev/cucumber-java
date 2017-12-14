@@ -5,4 +5,4 @@ Feature: FeatureName
   Scenario: ScenarioName
     Given I am running a test
     When I go to execute
-    Then the test should fail
+    Then the test should fail each time
