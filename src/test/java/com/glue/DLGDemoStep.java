@@ -12,7 +12,7 @@ public class DLGDemoStep {
 
     @Given("^i first run this test$")
     public void ythat_i_am_a_logged_in_parent() throws Throwable {
-        Assert.assertEquals(true, true);
+        Assert.assertEquals(true, false);
     }
 
     @When("^i execute the test$")
