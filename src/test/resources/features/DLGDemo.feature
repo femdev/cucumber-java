@@ -24,3 +24,4 @@ Feature: DLGDemo
     Examples:
       |field1|field2|
       | f1|f2|
+      | f3|f4|
