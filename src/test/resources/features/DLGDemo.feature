@@ -7,3 +7,4 @@ Feature: DLGDemo
     When i execute the test
     Then it will fail but soon it will pass
     And I add a step to test functionality
+    And Added step 2
