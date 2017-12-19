@@ -6,6 +6,7 @@ Feature: FeatureName
     Given I am running a test
     When I go to execute
     Then the test should fail each time
+    And added another step
 
   Scenario: Sample Test Case
     Given I am running a test
