@@ -1,5 +1,5 @@
 
-Feature: Testing to find out what happens after a story closes
+Feature: My User story 2, 3rd jan
   
   Scenario: PREETAM USMAN 3rd test case
     Given given given given
